@@ -55,7 +55,8 @@ Use the rotary encoder to select difficulty before starting:
 ![Circuit Diagram](GBC_game.kicad_sch.png)
 
 ### System Diagram
-![System Diagram](System Diagram.png)
+
+![System Diagram](System_Diagram.png)
 
 ## Enclosure Design
 
