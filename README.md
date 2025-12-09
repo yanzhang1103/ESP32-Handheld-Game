@@ -52,10 +52,10 @@ Use the rotary encoder to select difficulty before starting:
 | Battery - | GND | Common ground |
 
 ### Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](GBC_game.kicad_sch.png)
 
 ### System Diagram
-![System Diagram](system_diagram.png)
+![System Diagram](System Diagram.png)
 
 ## Enclosure Design
 
